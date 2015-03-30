@@ -43,4 +43,5 @@ exports.config = {
 
 ## References 
 
-- 
+- [Learn Protractor Testing for AngularJS]
+- [Protractor Tutorial](http://angular.github.io/protractor/#/tutorial)
