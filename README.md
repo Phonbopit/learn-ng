@@ -1,2 +1,3 @@
-# ng
-Learn AngularJS 
+# learn-ng
+
+เรียน AngularJS ฉบับมั่วๆ :)
