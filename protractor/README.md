@@ -43,5 +43,8 @@ exports.config = {
 
 ## References 
 
-- [Learn Protractor Testing for AngularJS]
 - [Protractor Tutorial](http://angular.github.io/protractor/#/tutorial)
+- [Practical End-to-End Testing with Protractor](http://www.ng-newsletter.com/posts/practical-protractor.html)
+- [Advanced Testing and Debugging in AngularJS](http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html)
+- [Getting Started With Protractor](https://egghead.io/lessons/angularjs-getting-started-with-protractor)
+- [Angular JS–Part 14, End to end tests](https://lostechies.com/gabrielschenker/2014/04/18/angular-jspart-14-end-to-end-tests/)
