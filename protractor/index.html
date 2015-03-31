@@ -4,7 +4,11 @@
 	<meta charset="UTF-8">
 	<title>Try Protractor</title>
 </head>
-<body>
+<body ng-app="myApp">
+
+	<div ng-controller="MainCtroller as main">
+		{{ main.title }}
+	</div>
 	<h1>Hello World</h1>
 
 	<script src="bower_components/angular/angular.js"></script>
